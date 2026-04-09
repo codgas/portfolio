@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "location": "Based in Osaka, Japan",
+    "title_first": "Ghassen",
+    "title_last": "Boujlida",
+    "title_katakana": "",
+    "subtitle": "Machine Learning Engineer",
+    "description": "Building recommendation systems, personalization engines, and scalable ML infrastructure that drive real business impact. Also crafting beautiful web experiences on the side.",
+    "cta": "Get in Touch",
+    "cta2": "View My Work"
+  },
+  "about": {
+    "label": "01. About",
+    "title": "Who I Am",
+    "p1": "I'm Ghassen Boujlida, a Machine Learning Engineer born in Tunisia and based in Japan, with a passion for building intelligent systems that scale. I moved to Japan in 2015 on a MEXT scholarship and have been here ever since.",
+    "p2": "I hold a Master's degree in Statistics and Machine Learning from Osaka University, where I researched density estimation with autoencoders and normalizing flows. My career has taken me from research internships at NEC to building production ML systems at LINE (LY Corporation) serving millions of users, and now I'm the first ML engineer at SNKRDUNK (SODA inc.).",
+    "p3": "Beyond ML, I build full-stack web applications and enjoy bridging the gap between data science and end-user experiences. I speak four languages fluently and thrive in multicultural environments.",
+    "education": "Education",
+    "education_main": "M.Eng in Statistics & ML, Osaka University",
+    "education_sub": "B.Eng in Mathematics · KOSEN Nagano",
+    "languages": "Languages",
+    "lang_arabic": "Arabic — Native",
+    "lang_french": "French — Business",
+    "lang_japanese": "Japanese — JLPT N1",
+    "lang_english": "English — TOEIC 970",
+    "scholarships": "Scholarships",
+    "scholarship_mext": "MEXT Scholarship (6 years)",
+    "scholarship_rotary": "Rotary Yoneyama Memorial"
+  },
+  "experience": {
+    "label": "02. Experience",
+    "title": "Where I've Worked",
+    "snkrdunk": {
+      "role": "Machine Learning Engineer",
+      "period": "Dec 2025 - Present",
+      "location": "Osaka, Japan (Remote)",
+      "h1": "Joined as the first Machine Learning Engineer, building the ML infrastructure from the ground up",
+      "h2": "Developing recommendation and personalization systems for the sneaker marketplace platform",
+      "h3": "Built an LLM agent using LangGraph to extract business-relevant keywords from product names, powering the recommendation section of the app"
+    },
+    "line": {
+      "role": "Machine Learning Engineer",
+      "period": "Apr 2023 - Nov 2025",
+      "location": "Tokyo, Japan",
+      "h1": "Implemented recommendation logic for LINE app official account suggestions, achieving 110% increase in CVR and +200M yen yearly revenue",
+      "h2": "Built user-interest vector embeddings (dense & sparse) using PySpark, Python, and PyTorch, used across multiple LY Corp products",
+      "h3": "Developed a high-performance Go-based API for personalized search result reranking in LINE Official Accounts",
+      "h4": "Conducted PoC using Vision LLMs for image feature extraction, fine-tuning models in Japanese",
+      "h5": "Optimized models by merging separate ML tasks into a single model, reducing maintenance costs",
+      "h6": "Enhanced internal ML library, boosting task accuracy by up to 6%",
+      "h7": "Implemented automated data analysis using LLMs with exceptional results"
+    },
+    "nec": {
+      "role": "Research Intern",
+      "period": "Aug 2021 - Oct 2021",
+      "location": "Tokyo, Japan",
+      "h1": "Contributed to Kurumie for Cities road damage detection service",
+      "h2": "Trained models from scratch and implemented a new technique that enhanced detection accuracy by 7%"
+    },
+    "rutilea": {
+      "role": "Software Engineer (Part-time)",
+      "period": "Dec 2020 - Mar 2023",
+      "location": "Kyoto, Japan",
+      "h1": "Developed an industrial bolt detection service using computer vision, successfully deployed to production",
+      "h2": "Created PoCs using Neural Radiance Fields (NeRF) for 3D modeling, doubling the modeling speed"
+    }
+  },
+  "projects": {
+    "label": "03. Projects",
+    "title": "Things I've Built",
+    "featured": "Featured Project",
+    "jet_title": "Japan Easy Travel",
+    "jet_desc": "A full-featured travel company website for a Japan-based boutique travel agency. Features include tour listings with filtering, destination pages, private guide booking, testimonials, and a fully responsive design optimized for conversion.",
+    "visit": "Visit Site",
+    "rec_title": "LINE Recommendation System",
+    "rec_desc": "Built the recommendation logic for LINE app official account suggestions, resulting in a 110% increase in conversion rates (CVR) and an additional 200 million yen in yearly revenue.",
+    "vec_title": "User Vector Embeddings Platform",
+    "vec_desc": "Designed and maintained user-interest vector features (dense & sparse representations) capturing diverse behavioral signals, now used across multiple LY Corp products for personalization."
+  },
+  "skills": {
+    "label": "04. Skills",
+    "title": "Technologies I Work With",
+    "languages": "Languages",
+    "ml": "ML / Data",
+    "infra": "Infrastructure",
+    "web": "Web"
+  },
+  "contact": {
+    "label": "05. Contact",
+    "title": "Let's Work Together",
+    "description": "I'm always open to new opportunities, collaborations, and interesting projects. Whether you need an ML system, a web application, or just want to chat — feel free to reach out.",
+    "cta": "Say Hello"
+  },
+  "footer": {
+    "built_with": "Built with Next.js, TypeScript & Tailwind CSS"
+  }
+}

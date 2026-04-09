@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "about": "A propos",
+    "experience": "Parcours",
+    "projects": "Projets",
+    "skills": "Competences",
+    "contact": "Contact",
+    "resume": "CV"
+  },
+  "hero": {
+    "location": "Base a Osaka, Japon",
+    "title_first": "Ghassen",
+    "title_last": "Boujlida",
+    "title_katakana": "",
+    "subtitle": "Ingenieur Machine Learning",
+    "description": "Je construis des systemes de recommandation, des moteurs de personnalisation et des infrastructures ML scalables qui generent un impact business reel. Je cree egalement de belles experiences web.",
+    "cta": "Me contacter",
+    "cta2": "Voir mon travail"
+  },
+  "about": {
+    "label": "01. A propos",
+    "title": "Qui suis-je",
+    "p1": "Je suis Ghassen Boujlida, ingenieur Machine Learning ne en Tunisie et base au Japon, passionne par la construction de systemes intelligents et scalables. Je me suis installe au Japon en 2015 grace a une bourse MEXT et j'y vis depuis.",
+    "p2": "Je suis titulaire d'un Master en Statistiques et Machine Learning de l'Universite d'Osaka, ou j'ai mene des recherches sur l'estimation de densite avec des autoencodeurs et les normalizing flows. Ma carriere m'a conduit des stages de recherche chez NEC a la construction de systemes ML en production chez LINE (LY Corporation) au service de millions d'utilisateurs, et je suis maintenant le premier ingenieur ML chez SNKRDUNK (SODA inc.).",
+    "p3": "Au-dela du ML, je developpe des applications web full-stack et j'aime faire le lien entre la data science et l'experience utilisateur. Je parle couramment quatre langues et je m'epanouis dans les environnements multiculturels.",
+    "education": "Formation",
+    "education_main": "Master en Statistiques & ML, Universite d'Osaka",
+    "education_sub": "Licence en Mathematiques · KOSEN Nagano",
+    "languages": "Langues",
+    "lang_arabic": "Arabe — Langue maternelle",
+    "lang_french": "Francais — Courant",
+    "lang_japanese": "Japonais — JLPT N1",
+    "lang_english": "Anglais — TOEIC 970",
+    "scholarships": "Bourses",
+    "scholarship_mext": "Bourse MEXT (6 ans)",
+    "scholarship_rotary": "Bourse Rotary Yoneyama"
+  },
+  "experience": {
+    "label": "02. Parcours",
+    "title": "Ou j'ai travaille",
+    "snkrdunk": {
+      "role": "Ingenieur Machine Learning",
+      "period": "Dec 2025 - Present",
+      "location": "Osaka, Japon (Teletravail)",
+      "h1": "Premier ingenieur ML de l'entreprise, construction de l'infrastructure ML de zero",
+      "h2": "Developpement de systemes de recommandation et de personnalisation pour la marketplace de sneakers",
+      "h3": "Construction d'un agent LLM avec LangGraph pour extraire des mots-cles pertinents des noms de produits, alimentant la section recommandation de l'application"
+    },
+    "line": {
+      "role": "Ingenieur Machine Learning",
+      "period": "Avr 2023 - Nov 2025",
+      "location": "Tokyo, Japon",
+      "h1": "Implementation de la logique de recommandation pour les suggestions de comptes officiels LINE, augmentation de 110% du CVR et +200M de yens de revenus annuels",
+      "h2": "Construction d'embeddings vectoriels d'interets utilisateurs (denses et creux) avec PySpark, Python et PyTorch, utilises dans plusieurs produits LY Corp",
+      "h3": "Developpement d'une API haute performance en Go pour le reranking personnalise des resultats de recherche",
+      "h4": "Realisation d'un PoC avec des Vision LLMs pour l'extraction de features d'images, fine-tuning de modeles en japonais",
+      "h5": "Optimisation des modeles en fusionnant des taches ML separees en un seul modele, reduisant les couts de maintenance",
+      "h6": "Amelioration de la bibliotheque ML interne, augmentant la precision des taches jusqu'a 6%",
+      "h7": "Implementation d'analyse automatique de donnees avec des LLMs avec des resultats exceptionnels"
+    },
+    "nec": {
+      "role": "Stagiaire Recherche",
+      "period": "Aout 2021 - Oct 2021",
+      "location": "Tokyo, Japon",
+      "h1": "Contribution au service de detection de dommages routiers Kurumie for Cities",
+      "h2": "Entrainement de modeles from scratch et implementation d'une nouvelle technique ameliorant la precision de detection de 7%"
+    },
+    "rutilea": {
+      "role": "Ingenieur Logiciel (Temps partiel)",
+      "period": "Dec 2020 - Mars 2023",
+      "location": "Kyoto, Japon",
+      "h1": "Developpement d'un service de detection de boulons industriels par vision par ordinateur, deploye en production",
+      "h2": "Creation de PoCs utilisant NeRF pour la modelisation 3D, doublant la vitesse de modelisation"
+    }
+  },
+  "projects": {
+    "label": "03. Projets",
+    "title": "Ce que j'ai construit",
+    "featured": "Projet phare",
+    "jet_title": "Japan Easy Travel",
+    "jet_desc": "Un site web complet pour une agence de voyage boutique au Japon. Comprend des listes de circuits avec filtrage, des pages de destinations, la reservation de guides prives, des temoignages et un design responsive optimise pour la conversion.",
+    "visit": "Visiter le site",
+    "rec_title": "Systeme de recommandation LINE",
+    "rec_desc": "Construction de la logique de recommandation pour les suggestions de comptes officiels LINE, resultant en une augmentation de 110% du taux de conversion et 200 millions de yens de revenus annuels supplementaires.",
+    "vec_title": "Plateforme d'embeddings vectoriels utilisateurs",
+    "vec_desc": "Conception et maintenance de features vectorielles d'interets utilisateurs (representations denses et creuses) capturant des signaux comportementaux divers, utilisees dans plusieurs produits LY Corp."
+  },
+  "skills": {
+    "label": "04. Competences",
+    "title": "Technologies que j'utilise",
+    "languages": "Langages",
+    "ml": "ML / Data",
+    "infra": "Infrastructure",
+    "web": "Web"
+  },
+  "contact": {
+    "label": "05. Contact",
+    "title": "Travaillons ensemble",
+    "description": "Je suis toujours ouvert aux nouvelles opportunites, collaborations et projets interessants. Que vous ayez besoin d'un systeme ML, d'une application web ou simplement d'echanger — n'hesitez pas a me contacter.",
+    "cta": "Dire bonjour"
+  },
+  "footer": {
+    "built_with": "Construit avec Next.js, TypeScript & Tailwind CSS"
+  }
+}
