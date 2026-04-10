@@ -12,10 +12,10 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const links = [
-    { label: t("nav.about"), href: "#about" },
     { label: t("nav.experience"), href: "#experience" },
     { label: t("nav.projects"), href: "#projects" },
     { label: t("nav.skills"), href: "#skills" },
+    { label: t("nav.about"), href: "#about" },
     { label: t("nav.contact"), href: "#contact" },
   ];
 

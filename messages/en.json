@@ -13,16 +13,16 @@
     "title_last": "Boujlida",
     "title_katakana": "",
     "subtitle": "Machine Learning Engineer",
-    "description": "Building recommendation systems, personalization engines, and scalable ML infrastructure that drive real business impact. Also crafting beautiful web experiences on the side.",
+    "description": "Machine Learning Engineer specializing in recommendation systems, personalization engines, and scalable ML infrastructure. Also building modern web experiences.",
     "cta": "Get in Touch",
     "cta2": "View My Work"
   },
   "about": {
-    "label": "01. About",
-    "title": "Who I Am",
-    "p1": "I'm Ghassen Boujlida, a Machine Learning Engineer born in Tunisia and based in Japan, with a passion for building intelligent systems that scale. I moved to Japan in 2015 on a MEXT scholarship and have been here ever since.",
-    "p2": "I hold a Master's degree in Statistics and Machine Learning from Osaka University, where I researched density estimation with autoencoders and normalizing flows. My career has taken me from research internships at NEC to building production ML systems at LINE (LY Corporation) serving millions of users, and now I'm the first ML engineer at SNKRDUNK (SODA inc.).",
-    "p3": "Beyond ML, I build full-stack web applications and enjoy bridging the gap between data science and end-user experiences. I speak four languages fluently and thrive in multicultural environments.",
+    "label": "04. About",
+    "title": "Background",
+    "p1": "A Machine Learning Engineer born in Tunisia and based in Japan since 2015, when a MEXT scholarship from the Japanese government opened the door to a career in tech across cultures and languages.",
+    "p2": "Master's degree in Statistics and Machine Learning from Osaka University, with research focused on density estimation with autoencoders and normalizing flows. Professional experience spans research at NEC, production ML systems at LINE (LY Corporation) serving millions of users, and currently the first ML engineer at SNKRDUNK (SODA inc.).",
+    "p3": "Beyond ML, experienced in full-stack web development — bridging data science and end-user experiences. Fluent in four languages and comfortable working across multicultural teams.",
     "education": "Education",
     "education_main": "M.Eng in Statistics & ML, Osaka University",
     "education_sub": "B.Eng in Mathematics · KOSEN Nagano",
@@ -36,7 +36,7 @@
     "scholarship_rotary": "Rotary Yoneyama Memorial"
   },
   "experience": {
-    "label": "02. Experience",
+    "label": "01. Experience",
     "title": "Where I've Worked",
     "snkrdunk": {
       "role": "Machine Learning Engineer",
@@ -74,7 +74,7 @@
     }
   },
   "projects": {
-    "label": "03. Projects",
+    "label": "02. Projects",
     "title": "Things I've Built",
     "featured": "Featured Project",
     "jet_title": "Japan Easy Travel",
@@ -86,7 +86,7 @@
     "vec_desc": "Designed and maintained user-interest vector features (dense & sparse representations) capturing diverse behavioral signals, now used across multiple LY Corp products for personalization."
   },
   "skills": {
-    "label": "04. Skills",
+    "label": "03. Skills",
     "title": "Technologies I Work With",
     "languages": "Languages",
     "ml": "ML / Data",
@@ -96,7 +96,7 @@
   "contact": {
     "label": "05. Contact",
     "title": "Let's Work Together",
-    "description": "I'm always open to new opportunities, collaborations, and interesting projects. Whether you need an ML system, a web application, or just want to chat — feel free to reach out.",
+    "description": "Open to new opportunities, collaborations, and interesting projects. Whether it's an ML system, a web application, or a conversation — don't hesitate to reach out.",
     "cta": "Say Hello"
   },
   "footer": {

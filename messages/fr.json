@@ -13,16 +13,16 @@
     "title_last": "Boujlida",
     "title_katakana": "",
     "subtitle": "Ingenieur Machine Learning",
-    "description": "Je construis des systemes de recommandation, des moteurs de personnalisation et des infrastructures ML scalables qui generent un impact business reel. Je cree egalement de belles experiences web.",
+    "description": "Ingenieur Machine Learning specialise dans les systemes de recommandation, les moteurs de personnalisation et les infrastructures ML scalables. Egalement concepteur d'experiences web modernes.",
     "cta": "Me contacter",
     "cta2": "Voir mon travail"
   },
   "about": {
-    "label": "01. A propos",
-    "title": "Qui suis-je",
-    "p1": "Je suis Ghassen Boujlida, ingenieur Machine Learning ne en Tunisie et base au Japon, passionne par la construction de systemes intelligents et scalables. Je me suis installe au Japon en 2015 grace a une bourse MEXT et j'y vis depuis.",
-    "p2": "Je suis titulaire d'un Master en Statistiques et Machine Learning de l'Universite d'Osaka, ou j'ai mene des recherches sur l'estimation de densite avec des autoencodeurs et les normalizing flows. Ma carriere m'a conduit des stages de recherche chez NEC a la construction de systemes ML en production chez LINE (LY Corporation) au service de millions d'utilisateurs, et je suis maintenant le premier ingenieur ML chez SNKRDUNK (SODA inc.).",
-    "p3": "Au-dela du ML, je developpe des applications web full-stack et j'aime faire le lien entre la data science et l'experience utilisateur. Je parle couramment quatre langues et je m'epanouis dans les environnements multiculturels.",
+    "label": "04. A propos",
+    "title": "Parcours",
+    "p1": "Ingenieur Machine Learning ne en Tunisie et base au Japon depuis 2015, arrive grace a une bourse MEXT du gouvernement japonais. Une carriere construite a l'intersection des cultures et des langues.",
+    "p2": "Titulaire d'un Master en Statistiques et Machine Learning de l'Universite d'Osaka, avec des recherches sur l'estimation de densite par autoencodeurs et normalizing flows. Experience professionnelle allant de la recherche chez NEC aux systemes ML en production chez LINE (LY Corporation) servant des millions d'utilisateurs, jusqu'au poste actuel de premier ingenieur ML chez SNKRDUNK (SODA inc.).",
+    "p3": "Au-dela du ML, experience en developpement web full-stack — faisant le lien entre data science et experience utilisateur. Quadrilingue, a l'aise dans les equipes multiculturelles.",
     "education": "Formation",
     "education_main": "Master en Statistiques & ML, Universite d'Osaka",
     "education_sub": "Licence en Mathematiques · KOSEN Nagano",
@@ -36,7 +36,7 @@
     "scholarship_rotary": "Bourse Rotary Yoneyama"
   },
   "experience": {
-    "label": "02. Parcours",
+    "label": "01. Parcours",
     "title": "Ou j'ai travaille",
     "snkrdunk": {
       "role": "Ingenieur Machine Learning",
@@ -74,7 +74,7 @@
     }
   },
   "projects": {
-    "label": "03. Projets",
+    "label": "02. Projets",
     "title": "Ce que j'ai construit",
     "featured": "Projet phare",
     "jet_title": "Japan Easy Travel",
@@ -86,7 +86,7 @@
     "vec_desc": "Conception et maintenance de features vectorielles d'interets utilisateurs (representations denses et creuses) capturant des signaux comportementaux divers, utilisees dans plusieurs produits LY Corp."
   },
   "skills": {
-    "label": "04. Competences",
+    "label": "03. Competences",
     "title": "Technologies que j'utilise",
     "languages": "Langages",
     "ml": "ML / Data",
@@ -96,7 +96,7 @@
   "contact": {
     "label": "05. Contact",
     "title": "Travaillons ensemble",
-    "description": "Je suis toujours ouvert aux nouvelles opportunites, collaborations et projets interessants. Que vous ayez besoin d'un systeme ML, d'une application web ou simplement d'echanger — n'hesitez pas a me contacter.",
+    "description": "Ouvert aux nouvelles opportunites, collaborations et projets interessants. Systeme ML, application web ou simple echange — n'hesitez pas a prendre contact.",
     "cta": "Dire bonjour"
   },
   "footer": {
