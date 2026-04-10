@@ -20,7 +20,7 @@
   "about": {
     "label": "04. About",
     "title": "Background",
-    "p1": "A Machine Learning Engineer born in Tunisia and based in Japan since 2015, when a MEXT scholarship from the Japanese government opened the door to a career in tech across cultures and languages.",
+    "p1": "A Machine Learning Engineer based in Japan since 2015, when a MEXT scholarship from the Japanese government opened the door to a career in tech across cultures and languages.",
     "p2": "Master's degree in Statistics and Machine Learning from Osaka University, with research focused on density estimation with autoencoders and normalizing flows. Professional experience spans research at NEC, production ML systems at LINE (LY Corporation) serving millions of users, and currently the first ML engineer at SNKRDUNK (SODA inc.).",
     "p3": "Beyond ML, experienced in full-stack web development — bridging data science and end-user experiences. Fluent in four languages and comfortable working across multicultural teams.",
     "education": "Education",
